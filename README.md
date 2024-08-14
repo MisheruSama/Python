@@ -1,1 +1,1 @@
-# Introdu-o-a-programa-o-estruturada-em-C-primeiro-per-odo-da-faculdade
+# Introducao-a-programacao-estruturada-em-C-primeiro-periodo-da-faculdade
