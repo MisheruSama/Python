@@ -1,3 +1,4 @@
+# Sistema que recebe 4 notas e então dá a média delas
 nota1 = float(input("Digite a primeira nota:"))
 nota2 = float(input("Digite a segunda nota:"))
 nota3 = float(input("Digite a terceira nota:"))
