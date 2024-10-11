@@ -1,8 +1,5 @@
-lista = [0]*10
-soma = 0
-for i in range(10):
-    lista[i] = int(input(f"Digite o {i+1}º numero: "))
-    soma+=lista[i]
-print("Os números digitados foram: ")
-print(lista)
-print(f"O somatório é {soma}") 
+n=int(input("Digite quantos elementos possui a lista: "))
+lista = [0]*n
+for i in range(n):
+    lista[i] = int(input(f"Digite o {i+1}º valor: "))
+print(sum(lista))
